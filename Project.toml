@@ -1,4 +1,4 @@
-name = "EMBook"
-uuid = "d29579fc-99d1-4b70-b214-bc5c03fdbf51"
+name = "EMagBook"
+uuid = "5471b530-2659-4827-9a42-12064edc77c1"
 authors = ["Shobhan Kulshreshtha <sk@gatech.edu>"]
 version = "0.1.0"
