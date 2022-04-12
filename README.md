@@ -1,0 +1,3 @@
+# EMagBook.jl
+Exploring elementary classical clectromagnetism in Julia.   
+More Details soon...
