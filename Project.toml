@@ -2,3 +2,7 @@ name = "EMagBook"
 uuid = "5471b530-2659-4827-9a42-12064edc77c1"
 authors = ["Shobhan Kulshreshtha <sk@gatech.edu>"]
 version = "0.1.0"
+
+
+[compat]
+julia = "^1.6"
