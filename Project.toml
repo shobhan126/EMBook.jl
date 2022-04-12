@@ -1,0 +1,4 @@
+name = "EMBook"
+uuid = "d29579fc-99d1-4b70-b214-bc5c03fdbf51"
+authors = ["Shobhan Kulshreshtha <sk@gatech.edu>"]
+version = "0.1.0"
